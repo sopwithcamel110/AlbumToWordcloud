@@ -2,7 +2,7 @@
 Takes any album link starting with "https://genius.com/albums/" and generates a wordcloud composed of all the words used in all songs on the album. The wordcloud also attempts to match the shaping and coloring of the album cover.
 
 ## Example:
-The Miseducation of Lauryn Hill
+The Miseducation of Lauryn Hill:  
 ![The Miseducation of Lauryn Hill](https://github.com/sopwithcamel110/AlbumToWordcloud/blob/master/examples/laurynhill.png?raw=true)
 
 # How to run
